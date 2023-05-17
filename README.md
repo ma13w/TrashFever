@@ -17,4 +17,4 @@ To make this videogame we used JavaScript. It’s a very common language that is
 
 When you play the game, you can see a stone wall, with a green tube. The trashes comes out from the tube, and on the right and on the left of the tube some trash can will appear. When you got a high score some new type of trash and new trash can will appear like glass and metals 
 
-[Click and play](https://www.google.com](https://trash-fever.web.app/game/game.html)
+[Click and play](https://trash-fever.web.app/game/game.html)
